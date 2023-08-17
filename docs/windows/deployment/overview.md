@@ -26,7 +26,7 @@ The MSIX package is configured by the _Platforms\\Windows\\Package.appxmanifest_
 
 You can use the Manifest Designer feature of Visual Studio to visually edit the _Package.appxmanifest_ file, which affects how the app is displayed in the Microsoft Store and in Windows. You can also edit the _Package.appxmanifest_ file using the XML editor.
 
-- To use the Manifest Designer, find the **Solution Explorer** pane, then right-click **Platforms\\Windows\\Package.appxmanifest** > **Properties**.
+- To use the Manifest Designer, find the **Solution Explorer** pane, then right-click **Platforms\\Windows\\Package.appxmanifest** > **View Designer**.
 - To use the XML editor, find the **Solution Explorer** pane, then right-click **Platforms\\Windows\\Package.appxmanifest** > **View Code**.
 
 > [!IMPORTANT]
